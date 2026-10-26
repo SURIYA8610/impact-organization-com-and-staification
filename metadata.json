@@ -1,0 +1,8 @@
+{
+  "name": "Impact of Organizational Communication on Employee Satisfaction",
+  "description": "Research platform and analytics dashboard exploring the relationship between workplace communication, employee satisfaction, and organizational effectiveness.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
